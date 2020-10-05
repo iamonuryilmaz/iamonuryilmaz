@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamonuryilmaz" alt="iamonuryilmaz" /> </p>
 
-- 🔭 I’m currently working on [Gedik Holding's internal and external software projects](gedik.com.tr)
+- 🔭 I’m currently working on [Gedik Holding's internal and external software projects](https://gedik.com.tr)
 
 - 🌱 I’m currently learning **GraphQL, Node.js, express**
 
