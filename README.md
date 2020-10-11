@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamonuryilmaz" alt="iamonuryilmaz" /> </p>
 
-- 🔭 I’m currently working on [Gedik Holding's internal and external software projects](gedik.com.tr)
+- 🔭 I’m currently working on <a href="https://gedik.com.tr" target="blank">Gedik Holding's internal and external software projects</a>
 
-- 🌱 I’m currently learning **GraphQL, Node.js, express**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **muh.onuryilmaz@gmail.com**
 
